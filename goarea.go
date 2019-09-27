@@ -15,6 +15,6 @@ func Rect(base, altura float64) float64 {
 	return base * altura
 }
 
-func _TrianguloEq (base, altura float64) float64 {
+func _TrianguloEq(base, altura float64) float64 {
 	return (base * altura) / 2
 }
